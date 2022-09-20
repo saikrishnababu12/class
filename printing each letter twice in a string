@@ -1,0 +1,5 @@
+print("enter a string")
+st=input()
+for i in st:
+        print(i*2)
+        print("\n")
